@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color:purple;
+    font-family: ´Trebuchet MS´, ´Comic Sans MS´, cursive;
+    margin: 0;
+}
+
+header {
+    font-size: 60px;
+    padding: 6px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30PX;
+    border-bottom: ;
